@@ -1,4 +1,12 @@
 
+body {
+    background-image: url(https://imgy.pro/veto/680x375/4005911.jpg);
+    color: #820000;
+    font-family: Tahoma,Arial,sans-serif;
+    font-size: 11px;
+    margin: 0;
+    padding: 0;
+}
 .jqueryslidemenu ul {
     float: inherit;
     list-style-type: none;
