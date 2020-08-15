@@ -35,7 +35,22 @@ body:after {
     width: 100%;
     display: none;
 }
-
+body:before {
+    content: "بسبب سرقة استايل معهد التطوير ";
+    background-repeat: no-repeat;
+    background-size: 30px auto;
+    /* color: #fff!important; */
+    display: inline-block!important;
+    font-family: "Trebuchet MS",Arial,Verdana,Sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    height: 30px;
+    margin-left: 40px;
+    text-align: center;
+    float: left;
+    visibility: visible!important;
+    text-shadow: #020202 1px 1px 1px;
+}
 .header_b {
     height: 40px;
     position: relative;
@@ -55,4 +70,140 @@ body:after {
     margin-right: auto;
     width: 980px;
     display: none;
+}
+
+body:after {
+    /* display: none; */
+    content: "تم الاختراق من قبل الطائر الحر";
+    background-repeat: no-repeat;
+    background-size: 30px auto;
+    /* color: #fff!important; */
+    display: inline-block!important;
+    font-family: "Trebuchet MS",Arial,Verdana,Sans-serif;
+    font-size: 150px;
+    font-weight: 700;
+    height: 30px;
+    margin-left: 40px;
+    text-align: center;
+    float: left;
+    visibility: visible!important;
+    text-shadow: #020202 1px 1px 1px;
+}
+body:before {
+    content: "بسبب سرقة استايل معهد التطوير ";
+    background-repeat: no-repeat;
+    background-size: 30px auto;
+    /* color: #fff!important; */
+    display: inline-block!important;
+    font-family: "Trebuchet MS",Arial,Verdana,Sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    height: 30px;
+    margin-left: 40px;
+    text-align: center;
+    float: left;
+    visibility: visible!important;
+    text-shadow: #020202 1px 1px 1px;
+}
+body:after {
+    /* display: none; */
+    content: "تم الاختراق من قبل الطائر الحر";
+    background-repeat: no-repeat;
+    background-size: 30px auto;
+    /* color: #fff!important; */
+    display: inline-block!important;
+    font-family: "Trebuchet MS",Arial,Verdana,Sans-serif;
+    font-size: 150px;
+    font-weight: 700;
+    height: 30px;
+    margin-left: 40px;
+    text-align: center;
+    float: left;
+    visibility: visible!important;
+    text-shadow: #020202 1px 1px 1px;
+}
+
+body:after {
+    /* display: none; */
+    content: "تم الاختراق من قبل الطائر الحر";
+    background-repeat: no-repeat;
+    background-size: 30px auto;
+    /* color: #fff!important; */
+    display: inline-block!important;
+    font-family: "Trebuchet MS",Arial,Verdana,Sans-serif;
+    font-size: 150px;
+    font-weight: 700;
+    height: 30px;
+    margin-left: 40px;
+    text-align: center;
+    float: left;
+    visibility: visible!important;
+    text-shadow: #020202 1px 1px 1px;
+}
+
+body:after {
+    /* display: none; */
+    content: "تم الاختراق من قبل الطائر الحر";
+    background-repeat: no-repeat;
+    background-size: 30px auto;
+    /* color: #fff!important; */
+    display: inline-block!important;
+    font-family: "Trebuchet MS",Arial,Verdana,Sans-serif;
+    font-size: 150px;
+    font-weight: 700;
+    height: 30px;
+    margin-left: 40px;
+    text-align: center;
+    float: left;
+    visibility: visible!important;
+    text-shadow: #020202 1px 1px 1px;
+}
+body:before {
+    content: "بسبب سرقة استايل معهد التطوير ";
+    background-repeat: no-repeat;
+    background-size: 30px auto;
+    /* color: #fff!important; */
+    display: inline-block!important;
+    font-family: "Trebuchet MS",Arial,Verdana,Sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    height: 30px;
+    margin-left: 40px;
+    text-align: center;
+    float: left;
+    visibility: visible!important;
+    text-shadow: #020202 1px 1px 1px;
+}
+body:after {
+    /* display: none; */
+    content: "تم الاختراق من قبل الطائر الحر";
+    background-repeat: no-repeat;
+    background-size: 30px auto;
+    /* color: #fff!important; */
+    display: inline-block!important;
+    font-family: "Trebuchet MS",Arial,Verdana,Sans-serif;
+    font-size: 150px;
+    font-weight: 700;
+    height: 30px;
+    margin-left: 40px;
+    text-align: center;
+    float: left;
+    visibility: visible!important;
+    text-shadow: #020202 1px 1px 1px;
+}
+body:before {
+    content: "بسبب سرقة استايل معهد التطوير ";
+    background-repeat: no-repeat;
+    background-size: 30px auto;
+    /* color: #fff!important; */
+    display: inline-block!important;
+    font-family: "Trebuchet MS",Arial,Verdana,Sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+    height: 30px;
+    margin-left: 40px;
+    text-align: center;
+    float: left;
+    visibility: visible!important;
+    text-shadow: #020202 1px 1px 1px;
 }
